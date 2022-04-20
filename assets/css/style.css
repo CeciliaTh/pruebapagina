@@ -1,0 +1,40 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300px;
+}
+.navbar{
+    background-color: #28a745;
+}
+
+.logowhite{
+    width: 7em;
+    padding-left: 1em;
+}
+.formulario{
+    background-color: #28a745;
+}
+.colores{
+    color:white;
+}
+.parrafo-verde{
+    color:#28a745;
+    font-family:"Roboto";
+}
+
+.texto1, .texto2, .parrafo1{
+    color:#707070;
+}
+
+.logotipo{
+    width:5em;
+    margin-right: 3em;
+    /* width:80px; */
+    /* margin-right: 48px; */
+}
+
+.corrernav{
+    /* margin-right: 10px;
+    margin-left: 10px; */
+    padding-left: 65%;
+    padding-right: 35%;
+}
